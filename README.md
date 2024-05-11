@@ -31,7 +31,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se vo
     <td>
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=tarikwesley&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=tarikwesley&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
         alt="Github stats"
       />
     </td>
